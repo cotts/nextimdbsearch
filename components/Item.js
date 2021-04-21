@@ -2,7 +2,7 @@ import React from 'react'
 
 
 export default function Item({title, year, rating, released, runtime}){
-  // const item = getData(title)
+
   
   return(
     <div>
